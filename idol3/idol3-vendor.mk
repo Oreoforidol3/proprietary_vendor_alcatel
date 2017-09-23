@@ -506,7 +506,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/alcatel/idol3/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/alcatel/idol3/proprietary/bin/radish:system/bin/radish \
-    vendor/alcatel/idol3/proprietary/bin/rild:system/bin/rild \
     vendor/alcatel/idol3/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/alcatel/idol3/proprietary/bin/tftp_server:system/bin/tftp_server \
     vendor/alcatel/idol3/proprietary/bin/time_daemon:system/bin/time_daemon \
@@ -516,7 +515,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/alcatel/idol3/proprietary/lib/libnetd_client.so:system/lib/libnetd_client.so \
-    vendor/alcatel/idol3/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/alcatel/idol3/proprietary/lib/sensors.native.so:system/lib/sensors.native.so \
     vendor/alcatel/idol3/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
@@ -525,7 +523,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/lib64/hw/audio.primary.msm8916.so:system/lib64/hw/audio.primary.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/alcatel/idol3/proprietary/lib64/libnetd_client.so:system/lib64/libnetd_client.so \
-    vendor/alcatel/idol3/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/alcatel/idol3/proprietary/lib64/sensors.native.so:system/lib64/sensors.native.so \
     vendor/alcatel/idol3/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/alcatel/idol3/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
